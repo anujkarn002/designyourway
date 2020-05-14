@@ -34,7 +34,7 @@ npm install -g firebase-tools
 firebase login
 ```
 
-Edit [.firebaserc](../blob/master/.firebaserc) with your firebase project id. Also make sure you have that project created at [Firebase Console](https://console.firebase.google.com)
+Edit [.firebaserc](blob/master/.firebaserc) with your firebase project id. Also make sure you have that project created at [Firebase Console](https://console.firebase.google.com)
 
 ```json
 {
